@@ -1,0 +1,95 @@
+[
+  {
+    "authorId": 1,
+    "authorName": "F. Scott Fitzgerald",
+    "biography": "F. Scott Fitzgerald was one of the major American writers of the twentieth century -- a figure whose life and works embodied powerful myths about our national dreams and aspirations. Fitzgerald was talented and perceptive, gifted with a lyrical style and a pitch-perfect ear for language. He lived his life as a romantic, equally capable of great dedication to his craft and reckless squandering of his artistic capital. He left us one sure masterpiece, The Great Gatsby; a near-masterpiece, Tender Is the Night; and a gathering of stories and essays that together capture the essence of the American experience. His writings are insightful and stylistically brilliant; today he is admired both as a social chronicler and a remarkably gifted artist.",
+    "books": [{
+      "bookId": 1,
+      "bookName": "The Great Gatsby"
+    }]
+  },
+  {
+    "authorId": 2,
+    "authorName": "John Steinbeck",
+    "biography": "ohn Steinbeck (1902-1968), winner of the Nobel Prize in Literature, achieved popular success in 1935 when he published Tortilla Flat. He went on to write more than twenty-five novels, including The Grapes of Wrath and Of Mice and Men.\n\nPhoto by JohnSteinbeck.JPG: US Government derivative work: Homonihilis (JohnSteinbeck.JPG) [Public domain], via Wikimedia Commons\n",
+    "books": [{
+      "bookId": 2,
+      "bookName": "The Grapes of Wrath"
+    }]
+  },
+  {
+    "authorId": 3,
+    "authorName": "George Orwell",
+    "biography": "GEORGE ORWELL (1903-1950) was born in India and served with the Imperial Police in Burma before joining the Republican Army in the Spanish Civil War. Orwell was the author of six novels as well as numerous essays and nonfiction works.",
+    "books": [{
+      "bookId": 3,
+      "bookName": "Nineteen Eighty-Four"
+    }]
+  },
+  {
+    "authorId": 4,
+    "authorName": "James Joyce",
+    "biography": "James Augustine Aloysius Joyce (2 February 1882 - 13 January 1941) was an Irish novelist and poet. He contributed to the modernist avant-garde and is regarded as one of the most influential and important authors of the 20th century.\n\nJoyce is best known for Ulysses (1922), a landmark work in which the episodes of Homer's Odyssey are paralleled in an array of contrasting literary styles, perhaps most prominent among these the stream of consciousness technique he utilised. Other well-known works are the short-story collection Dubliners (1914), and the novels A Portrait of the Artist as a Young Man (1916) and Finnegans Wake (1939). His other writings include three books of poetry, a play, occasional journalism and his published letters.\n\nJoyce was born in 41 Brighton Square, Rathgar, Dublin--about half a mile from his mother's birthplace in Terenure--into a middle-class family on the way down. A brilliant student, he excelled at the Jesuit schools Clongowes and Belvedere, despite the chaotic family life imposed by his father's alcoholism and unpredictable finances. He went on to attend University College Dublin.\n\nIn 1904, in his early twenties, Joyce emigrated permanently to continental Europe with his partner (and later wife) Nora Barnacle. They lived in Trieste, Paris and Zurich. Though most of his adult life was spent abroad, Joyce's fictional universe centres on Dublin, and is populated largely by characters who closely resemble family members, enemies and friends from his time there. Ulysses in particular is set with precision in the streets and alleyways of the city. Shortly after the publication of Ulysses, he elucidated this preoccupation somewhat, saying, \"For myself, I always write about Dublin, because if I can get to the heart of Dublin I can get to the heart of all the cities of the world. In the particular is contained the universal.\"\n\nBio from from Wikipedia, the free encyclopedia. Photo from Wikimedia Commons, the free media repository.",
+    "books": [{
+      "bookId": 4,
+      "bookName": "Ulysses"
+    }, {
+      "bookId": 8,
+      "bookName": "Dubliners: Centennial Edition (Penguin Classics Deluxe Edition)"
+    }]
+  },
+  {
+    "authorId": 5,
+    "authorName": "J. R. R. Tolkien",
+    "biography": "John Ronald Reuel Tolkien (3 January 1892 – 2 September 1973) was an English writer, poet, philologist, and academic, who is best known as the author of the classic high fantasy works The Hobbit, The Lord of the Rings, and The Silmarillion.\n\nHe served as the Rawlinson and Bosworth Professor of Anglo-Saxon and Fellow of Pembroke College, Oxford, from 1925 to 1945 and Merton Professor of English Language and Literature and Fellow of Merton College, Oxford, from 1945 to 1959. He was at one time a close friend of C. S. Lewis—they were both members of the informal literary discussion group known as the Inklings. Tolkien was appointed a Commander of the Order of the British Empire by Queen Elizabeth II on 28 March 1972.\n\nAfter Tolkien's death, his son Christopher published a series of works based on his father's extensive notes and unpublished manuscripts, including The Silmarillion. These, together with The Hobbit and The Lord of the Rings, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about a fantasy world called Arda and Middle-earth within it. Between 1951 and 1955, Tolkien applied the term legendarium to the larger part of these writings.\n\nWhile many other authors had published works of fantasy before Tolkien, the great success of The Hobbit and The Lord of the Rings led directly to a popular resurgence of the genre. This has caused Tolkien to be popularly identified as the \"father\" of modern fantasy literature—or, more precisely, of high fantasy. In 2008, The Times ranked him sixth on a list of \"The 50 greatest British writers since 1945\". Forbes ranked him the fifth top-earning \"dead celebrity\" in 2009.",
+    "books": [{
+      "bookId": 5,
+      "bookName": "The Lord of the Rings"
+    }, {
+      "bookId": 6,
+      "bookName": "The Hobbit"
+    }, {
+      "bookId": 7,
+      "bookName": "The Silmarillion"
+    }]
+  },
+  {
+    "authorId": 6,
+    "authorName": "Leo Tolstoy",
+    "biography": "Leo Tolstoy (1828-1910) wrote two of the great novels of the nineteenth century, War and Peace and Anna Karenina.",
+    "books": [{
+      "bookId": 9,
+      "bookName": "War and Peace"
+    }, {
+      "bookId": 10,
+      "bookName": "Anna Karenina"
+    }]
+  },
+  {
+    "authorId": 7,
+    "authorName": "Charles Dickens",
+    "biography": "Charles Dickens was born in 1812 near Portsmouth where his father was a clerk in the navy pay office. The family moved to London in 1823, but their fortunes were severely impaired. Dickens was sent to work in a blacking-warehouse when his father was imprisoned for debt. Both experiences deeply affected the future novelist. In 1833 he began contributing stories to newspapers and magazines, and in 1836 started the serial publication of Pickwick Papers. Thereafter, Dickens published his major novels over the course of the next twenty years, from Nicholas Nickleby to Little Dorrit. He also edited the journals Household Words and All the Year Round. Dickens died in June 1870.",
+    "books": [{
+      "bookId": 11,
+      "bookName": "David Copperfield"
+    }, {
+      "bookId": 12,
+      "bookName": "Great Expectations"
+    }, {
+      "bookId": 13,
+      "bookName": "Oliver Twist"
+    }, {
+      "bookId": 14,
+      "bookName": "A Tale of Two Cities"
+    }]
+  },
+  {
+    "authorId": 8,
+    "authorName": "William Golding",
+    "biography": "Born in Cornwall, England, William Golding started writing at the age of seven. Though he studied natural sciences at Oxford to please his parents, he also studied English and published his first book, a collection of poems, before finishing college. He served in the Royal Navy during World War II, participating in the Normandy invasion. Golding's other novels include Lord of the Flies, The Inheritors, The Free Fall, Pincher Martin, The Double Tongue, and Rites of Passage, which won the Booker Prize. \nPhoto by See page for author [CC BY-SA 3.0 nl (http://creativecommons.org/licenses/by-sa/3.0/nl/deed.en)], via Wikimedia Commons.",
+    "books": [{
+        "bookId": 15,
+        "bookName": "Lord of the Flies"
+      }]
+  }
+]

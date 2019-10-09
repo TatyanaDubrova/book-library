@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "description": "A social satire and a milestone in 20th century literature, 'The Great Gatsby' peels away the layers of the glamorous twenties in the U.S. to display the coldness and cruelty at its heart.",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 1,
+    "author": "F. Scott Fitzgerald",
+    "favorite": true
+  },
+  {
+    "id": 2,
+    "name": "The Grapes of Wrath",
+    "description": "First published in 1939, Steinbeck’s Pulitzer Prize-winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads—driven from their homestead and forced to travel west to the promised land of California. Out of their trials and their repeated collisions against the hard realities of an America divided into Haves and Have-Nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity. A portrait of the conflict between the powerful and the powerless, of one man’s fierce reaction to injustice, and of one woman’s stoical strength, the novel captures the horrors of the Great Depression and probes into the very nature of equality and justice in America. At once a naturalistic epic, captivity narrative, road novel, and transcendental gospel, Steinbeck’s powerful landmark novel is perhaps the most American of American Classics.\n\nThis Penguin Classics edition contains an introduction and notes by Steinbeck scholar Robert Demott.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,800 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 2,
+    "author": "John Steinbeck",
+    "favorite": true
+  },
+  {
+    "id": 3,
+    "name": "Nineteen Eighty-Four",
+    "description": "Written 70 years ago, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever...\n\n• Nominated as one of America’s best-loved novels by PBS’s The Great American Read •\n\n“The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command.”\n\nWinston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching...\n\nA startling and haunting vision of the world, 1984 is so powerful that it is completely convincing from start to finish. No one can deny the influence of this novel, its hold on the imaginations of multiple generations of readers, or the resiliency of its admonitions—a legacy that seems only to grow with the passage of time.",
+    "genreId": 2,
+    "genre": "Science Fiction",
+    "authorId": 3,
+    "author": "George Orwell",
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "name": "Ulysses",
+    "description": "Ulysses will immortalize its author with the same certainty that Gargantua immortalized Rabelais and The Brothers Karamazov immortalized Dostoevsky. . . . It comes nearer to being the perfect revelation of a personality than any book in existence. --New York Times\n\nTo my mind one of the most significant and beautiful books of our time. --Gilbert Seldes, in The Nation\n\nAlmost every variety of human experience is crammed into the accordian folds of a single day, which makes Ulysses not just an experimental work but the very last word in realism. --Amazon.com Review\n\nTalk about understanding 'feminine psychology'--I have never read anything to surpass it, and I doubt if I have ever read anything to equal it. --Arnold Bennett\n\nIn the last pages of the book, Joyce soars to such rhapsodies of beauty as have probably never been equaled in English prose fiction. --Edmund Wilson, in the New Republic",
+    "genreId": 3,
+    "genre": "Literary Fiction",
+    "authorId": 4,
+    "author": "James Joyce",
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "name": "The Lord of the Rings",
+    "description": "\"An extraordinary work -- pure excitement.\" -- New York Times Book Review\n \nOne Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them\n\nIn ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell by chance into the hands of the hobbit Bilbo Baggins.\n\nFrom Sauron's fastness in the Dark Tower of Mordor, his power spread far and wide. Sauron gathered all the Great Rings, but always he searched for the One Ring that would complete his dominion.\n\nWhen Bilbo reached his eleventy-first birthday he disappeared, bequeathing to his young cousin Frodo the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom.\n\nThe Lord of the Rings tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider.",
+    "genreId": 4,
+    "genre": "Fantasy",
+    "authorId": 5,
+    "author": "J. R. R. Tolkien",
+    "favorite": true
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "description": "A great modern classic and the prelude to The Lord of the Rings.\n \nBilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum.\n\n“A glorious account of a magnificent adventure, filled with suspense and seasoned with a quiet humor that is irresistible . . . All those, young or old, who love a fine adventurous tale, beautifully told, will take The Hobbit to their hearts.” – New York Times Book Review",
+    "genreId": 4,
+    "genre": "Fantasy",
+    "authorId": 5,
+    "author": "J. R. R. Tolkien",
+    "favorite": true
+  },
+  {
+    "id": 7,
+    "name": "The Silmarillion",
+    "description": "“Majestic! . . . Readers of The Hobbit and The Lord of the Rings will find in The Silmarillion a cosmology to call their own, medieval romances, fierce fairy tales, and fiercer wars that ring with heraldic fury . . . It overwhelms the reader.” — Time \n\nThe story of the creation of the world and of the First Age, this is the ancient drama to which the characters in The Lord of the Rings look back and in whose events some of them, such as Elrond and Galadriel, took part. The three Silmarils were jewels created by Fëanor, most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. Thereafter, the unsullied Light of Valinor lived on only in the Silmarils, but they were seized by Morgoth and set in his crown, which was guarded in the impenetrable fortress of Angband in the north of Middle-earth. The Silmarillion is the history of the rebellion of Fëanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy.\n\n“A creation of singular beauty . . . magnificent in its best moments.” — Washington Post \n\n“Heart-lifting . . . a work of power, eloquence and noble vision . . . Superb!” — Wall Street Journal",
+    "genreId": 4,
+    "genre": "Fantasy",
+    "authorId": 5,
+    "author": "J. R. R. Tolkien",
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "name": "Dubliners: Centennial Edition (Penguin Classics Deluxe Edition)",
+    "description": "For the centennial of its original publication, an irresistible Deluxe Edition of one of the most beloved books of the 20th century—featuring a foreword by Colum McCann, the bestselling author of Let the Great World Spin and TransAtlantic\n\nPerhaps the greatest short story collection in the English language, James Joyce’s Dubliners is a vivid and unflinching portrait of “dear dirty Dublin” at the turn of the twentieth century. These fifteen stories, including such unforgettable ones as “Araby,” “Grace,” and “The Dead,” delve into the heart of the city of Joyce’s birth, capturing the cadences of Dubliners’ speech and portraying with an almost brute realism their outer and inner lives. Dubliners is Joyce at his most accessible and most profound, and this edition is the definitive text, authorized by the Joyce estate and collated from all known proofs, manuscripts, and impressions to reflect the author’s original wishes.\n\nFor more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+    "genreId": 3,
+    "genre": "Literary Fiction",
+    "authorId": 4,
+    "author": "James Joyce",
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "name": "War and Peace",
+    "description": "Introduction by A. N. Wilson • Nominated as one of America’s best-loved novels by PBS’s The Great American Read\n\nOften called the greatest novel ever written, War and Peace is at once an epic of the Napoleonic Wars, a philosophical study, and a celebration of the Russian spirit. Tolstoy’s genius is seen clearly in the multitude of characters in this massive chronicle—all of them fully realized and equally memorable. Out of this complex narrative emerges a profound examination of the individual’s place in the historical process, one that makes it clear why Thomas Mann praised Tolstoy for his Homeric powers and placed War and Peace in the same category as the Iliad: “To read him . . . is to find one’ s way home . . . to everything within us that is fundamental and sane.”",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 6,
+    "author": "Leo Tolstoy",
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "name": "Anna Karenina",
+    "description": "Happy families are all alike; every unhappy family is unhappy in its own way. Everything was in confusion in the Oblonskys' house. The wife had discovered that the husband was carrying on an intrigue with a French girl, who had been a governess in their family, and she had announced to her husband that she could not go on living in the same house with him. This position of affairs had now...",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 6,
+    "author": "Leo Tolstoy",
+    "favorite": false
+  },
+  {
+    "id": 11,
+    "name": "David Copperfield",
+    "description": "Esta obra conta os perigos e as desventuras de David, um menino órfão que sofre quando se vê sozinho em Londres e passa a descobrir o verdadeiro caráter das pessoas, encontrando uma vasta galeria de personagens, gentis, cruéis ou grotescos.",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 7,
+    "author": "Charles Dickens",
+    "favorite": false
+  },
+  {
+    "id": 12,
+    "name": "Great Expectations",
+    "description": "In this unflaggingly suspenseful story of aspirations and moral redemption, humble, orphaned Pip, a ward of his short-tempered older sister and her husband, Joe, is apprenticed to the dirty work of the forge but dares to dream of becoming a gentleman. And, indeed, it seems as though that dream is destined to come to pass — because one day, under sudden and enigmatic circumstances, he finds himself in possession of \"great expectations.\" In telling Pip's story, Dickens traces a boy's path from a hardscrabble rural life to the teeming streets of 19th-century London, unfolding a gripping tale of crime and guilt, revenge and reward, and love and loss. Its compelling characters include Magwitch, the fearful and fearsome convict; Estella, whose beauty is excelled only by her haughtiness; and the embittered Miss Havisham, an eccentric jilted bride.\nWritten in the last decade of Dickens' life, Great Expectations was praised widely and universally admired. It was his last great novel, and many critics believe it to be his finest. Readers and critics alike praised it for its masterful plot, which rises above the melodrama of some of his earlier works, and for its three-dimensional, psychologically realistic characters — characters much deeper and more interesting than the one-note caricatures of earlier novels. \"In none of his other works,\" wrote the reviewer in the 1861 Atlantic, \"does he evince a shrewder insight into real life, and a cheaper perception and knowledge of what is called the world.\" To Swinburne, the novel was unparalleled in all of English fiction, with defects \"as nearly imperceptible as spots on the sun or shadows on a sunlit sea.\" Shaw found it Dickens' \"most completely perfect book.\" Now this inexpensive edition invites modern readers to savor this timeless masterpiece, teeming with colorful characters, unexpected plot twists, and Dickens' vivid rendering of the vast tapestry of mid-Victorian England.",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 7,
+    "author": "Charles Dickens",
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "name": "Oliver Twist",
+    "description": "We don't have a description for Oliver Twist, but if you head over to Amazon they'll be able to tell you what this book is about!",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 7,
+    "author": "Charles Dickens",
+    "favorite": false
+  },
+  {
+    "id": 14,
+    "name": "A Tale of Two Cities",
+    "description": "It was the time of the French Revolution — a time of great change and great danger. It was a time when injustice was met by a lust for vengeance, and rarely was a distinction made between the innocent and the guilty. Against this tumultuous historical backdrop, Dickens' great story of unsurpassed adventure and courage unfolds.\nUnjustly imprisoned for 18 years in the Bastille, Dr. Alexandre Manette is reunited with his daughter, Lucie, and safely transported from France to England. It would seem that they could take up the threads of their lives in peace. As fate would have it though, the pair are summoned to the Old Bailey to testify against a young Frenchman — Charles Darnay — falsely accused of treason. Strangely enough, Darnay bears an uncanny resemblance to another man in the courtroom, the dissolute lawyer's clerk Sydney Carton. It is a coincidence that saves Darnay from certain doom more than once. Brilliantly plotted, the novel is rich in drama, romance, and heroics that culminate in a daring prison escape in the shadow of the guillotine.",
+    "genreId": 1,
+    "genre": "Historical Fiction",
+    "authorId": 7,
+    "author": "Charles Dickens",
+    "favorite": false
+  },
+  {
+    "id": 15,
+    "name": "Lord of the Flies",
+    "description": "The classic novel by William Golding\nWith a new Introduction by Stephen King\n\"To me Lord of the Flies has always represented what novels are for, what makes them indispensable.\" -Stephen King\n\nGolding's classic, startling, and perennially bestselling portrait of human nature remains as provocative today as when it was first published. This beautiful new edition features French flaps and rough fronts, making it a must-have for fans of this seminal work.\n\nWilliam Golding's compelling story about a group of very ordinary small boys marooned on a coral island has become a modern classic. At first it seems as though it is all going to be great fun; but the fun before long becomes furious and life on the island turns into a nightmare of panic and death. As ordinary standards of behaviour collapse, the whole world the boys know collapses with them—the world of cricket and homework and adventure stories—and another world is revealed beneath, primitive and terrible.\n\nLord of the Flies remains as provocative today as when it was first published in 1954, igniting passionate debate with its startling, brutal portrait of human nature. Though critically acclaimed, it was largely ignored upon its initial publication. Yet soon it became a cult favorite among both students and literary critics who compared it to J.D. Salinger's The Catcher in the Rye in its influence on modern thought and literature.\n\nLabeled a parable, an allegory, a myth, a morality tale, a parody, a political treatise, even a vision of the apocalypse, Lord of the Flies has established itself as a true classic.",
+    "genreId": 5,
+    "genre": "Dystopia",
+    "authorId": 8,
+    "author": "William Golding",
+    "favorite": false
+  }
+]
